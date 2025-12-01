@@ -3,6 +3,8 @@
 ## Simple Calculator 🔢
 build a Simple Calculator using SPECKitPlus following all 5 phases.
 
+https://ai-driven-development-aidd-day8-kussqxe8laajyrqrkxzzq6.streamlit.app/
+
 # 🔹 Task Overview 🎯
 
 Build a calculator using SpecKitPlus,Streamlit,Python ,Gemini and complete all 5 phases:

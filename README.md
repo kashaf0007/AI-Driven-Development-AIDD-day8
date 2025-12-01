@@ -1,5 +1,7 @@
 # AI-Driven-Development-AIDD-day8
 
+## Simple Calculator 🔢
+
 # 🚀 Features
 
 ➕ Addition
